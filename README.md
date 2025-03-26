@@ -8,5 +8,6 @@ https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content
 ## Segunda atividade: Trabalhando com Dados abertos 
 Levantamento de dados abertos do GOV e composição de gráficos por meio do dashboard do Power BI
 https://app.powerbi.com/groups/me/dashboards/547f13b5-37a4-432e-a7e0-a27466664edb?experience=power-bi
+
 ![Uploading image.png…]()
 
