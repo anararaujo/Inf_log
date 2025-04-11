@@ -11,8 +11,14 @@ https://app.powerbi.com/groups/me/dashboards/547f13b5-37a4-432e-a7e0-a27466664ed
 
 ![image](https://github.com/user-attachments/assets/2a4ebcac-be1c-4665-badc-698508237550)
 
-## Terceira atividade: Dados abertos no Power BI
-Levantamento e apresentação de dados abertos sobre os funcionários da prefeitura municipal de Caçapava.
+## Terceira Atividade: Fórmulas no Excel (SOMASE, CONTSE e SOMA)
+Após orientações da professora Adriana, trabalhamos com o levantamento de dados abertos do Portal da Transferência da cidade de Caçapava e tratamento dos dados utilizando as fórmulas básicas do Excel.
+
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/ana_tome2_fatec_sp_gov_br/EYs-V0ACrRFCi3IqnxBTVMcBJF2EB5YytnlbeKABNPkGIA
+![image](https://github.com/user-attachments/assets/a609d954-de5d-4d4d-ac60-47b76a0198aa)
+
+## Quarta atividade: Dados abertos no Power BI
+Após o levantamento dos dados, elaboramos um dashboard com um três gráficos sobre a quantidade de funcionários da Prefeitura de Caçapava por secretaria, funções e nível de escolaridade.
 ![image](https://github.com/user-attachments/assets/adb9400d-0810-48b5-9043-0407c1a592c0)
 
 https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c32ca6e1cd7028bb55d6?experience=power-bi
