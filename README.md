@@ -11,4 +11,6 @@ https://app.powerbi.com/groups/me/dashboards/547f13b5-37a4-432e-a7e0-a27466664ed
 
 ![image](https://github.com/user-attachments/assets/2a4ebcac-be1c-4665-badc-698508237550)
 
-
+## Terceira atividade: Dados abertos no Power BI
+Levantamento e apresentação de dados abertos sobre os funcionários da prefeitura municipal de Caçapava.
+https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c32ca6e1cd7028bb55d6?experience=power-bi
