@@ -32,4 +32,4 @@ https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c
 
 ## Sexta atividade:
 
-## Sétima atividade: Tratamento de dados via Phyton pelo Colab
+## Sétima atividade: Projeção linear multípla
