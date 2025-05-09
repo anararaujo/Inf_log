@@ -29,3 +29,7 @@ Após o levantamento dos dados, elaboramos um dashboard com um três gráficos s
 ![image](https://github.com/user-attachments/assets/adb9400d-0810-48b5-9043-0407c1a592c0)
 
 https://app.powerbi.com/groups/me/reports/b47d9a70-f558-4913-a06e-96317d8c7c74/c32ca6e1cd7028bb55d6?experience=power-bi
+
+## Sexta atividade:
+
+## Sétima atividade: Tratamento de dados via Phyton pelo Colab
