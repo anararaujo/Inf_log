@@ -70,7 +70,39 @@ Nesta tarefa o objetivo era prever o consumo de cerveja em uma área universitá
 2. Depende do tipo de análise que eu estou buscando, se fosse uma análise mais simples usaria o Excel. Agora, se eu precisasse de algo mais completo, optaria pelo Python.
 3. O modelo do artigo é mais profundo: testa a significância dos dados, analisa resíduos, e verifica se o modelo é estatisticamente válido. Já o modelo que fiz foca só na previsão.
 
+![image](https://github.com/user-attachments/assets/6d0667d8-eea2-4a44-9f0e-c3df1fdacba8)
+
 ![image](https://github.com/user-attachments/assets/97caaf22-8a84-4fb0-9259-83ef95a1d60b)
+
+# Previsão de Preços de Imóveis com Regressão Linear
+
+## 🔗 Fonte dos Dados
+
+Os dados foram obtidos do Kaggle:  
+[https://www.kaggle.com/greenwing1985/housepricing](https://www.kaggle.com/greenwing1985/housepricing)
+
+## 🔧 Ferramentas Utilizadas
+
+- **Microsoft Excel**: Aplicada a função `PREVISÃO.LINEAR` para projeções simples de preços.
+- **Python (Google Colab com AI Gemini)**:
+  - Análise exploratória dos dados
+  - Modelo de Regressão Linear Múltipla com `scikit-learn`
+  - Visualizações com `matplotlib` e `seaborn`
+
+## 📁 Estrutura dos Dados
+
+As variáveis utilizadas são:
+
+- `preços`: Preço do imóvel (variável dependente)
+- `área`: Área construída do imóvel (m²)
+- `garagem`: Número de vagas de garagem
+- `banheiros`: Número de banheiros
+- `lareira`: Número de lareiras
+- `mármore`: Possui acabamento em mármore branco (1 = si
+
+![image](https://github.com/user-attachments/assets/fbbd9fb8-d07c-4c58-86aa-acd50ffa468e)
+![image](https://github.com/user-attachments/assets/62213570-a616-4996-89ee-d4aa58dd44ab)
+
 
 
 
