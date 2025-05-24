@@ -1,5 +1,7 @@
 # Inf_log
-Aprendizado - Informática
+Aprendizado - Informática ![image](https://github.com/user-attachments/assets/f4ecc483-ba91-40b9-9d87-cb306bae945e)
+
+
 
 ## Primeira atividade: Apresentação pessoal - Canva 
 https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
