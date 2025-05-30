@@ -103,6 +103,22 @@ As variáveis utilizadas são:
 ![image](https://github.com/user-attachments/assets/fbbd9fb8-d07c-4c58-86aa-acd50ffa468e)
 ![image](https://github.com/user-attachments/assets/62213570-a616-4996-89ee-d4aa58dd44ab)
 
+## Oitava atividade: Projeção de vendas 
+
+Nesta atividade, fiz a análise dos dados das empresas de panela de três empresas e baseando-se nestes para definir a projeção de vendas, receita e lucor, após isso foi feito o gráfico de dispersão que demonstra visualmente as análises obtidas.
+
+*Empresa de Panela de Pressão*
+
+![image](https://github.com/user-attachments/assets/0783afd6-5b57-4c07-a44e-da77540d95b5)
+
+*Empresa confidencial*
+
+![image](https://github.com/user-attachments/assets/77ca40c2-5c28-4377-95d7-92502c0e85d0)
+
+*Empresa de Sorvetes* 
+
+![image](https://github.com/user-attachments/assets/53846cb3-67e1-44da-8080-ce17e7c932ec)
+
 
 
 
