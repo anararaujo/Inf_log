@@ -103,7 +103,7 @@ As variáveis utilizadas são:
 ![image](https://github.com/user-attachments/assets/fbbd9fb8-d07c-4c58-86aa-acd50ffa468e)
 ![image](https://github.com/user-attachments/assets/62213570-a616-4996-89ee-d4aa58dd44ab)
 
-## Oitava atividade: Projeção de vendas 
+# Oitava atividade: Projeção de vendas 
 
 Nesta atividade, fiz a análise dos dados das empresas de panela de três empresas e baseando-se nestes para definir a projeção de vendas, receita e lucor, após isso foi feito o gráfico de dispersão que demonstra visualmente as análises obtidas.
 
@@ -121,7 +121,7 @@ Nesta atividade, fiz a análise dos dados das empresas de panela de três empres
 
 Link da planilha: https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_tome2_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B132fe3b1-b036-4928-9b9b-dcafe3f75e20%7D&action=edit&wdenableroaming=1&wdfr=1&wdodb=1&wdlcid=pt-BR&wdorigin=Other&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=a5a04e1d-2457-b1c8-6f8b-f855d33a7ed3&wdrldsc=2&wdrldc=1&wdrldr=OverrideDataLocale_C
 
-## Nona atividade: Projeção de Custos e Vendas
+# Nona atividade: Projeção de Custos e Vendas
 
 *Empresa de Espaçadores*
 
