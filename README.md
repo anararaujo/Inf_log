@@ -121,3 +121,16 @@ Nesta atividade, fiz a análise dos dados das empresas de panela de três empres
 
 Link da planilha: https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_tome2_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B132fe3b1-b036-4928-9b9b-dcafe3f75e20%7D&action=edit&wdenableroaming=1&wdfr=1&wdodb=1&wdlcid=pt-BR&wdorigin=Other&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=a5a04e1d-2457-b1c8-6f8b-f855d33a7ed3&wdrldsc=2&wdrldc=1&wdrldr=OverrideDataLocale_C
 
+## Nona atividade: Projeção de Custos e Vendas
+
+*Empresa de Espaçadores*
+
+![image](https://github.com/user-attachments/assets/b0bb2a8b-4901-4d6a-82c0-7a6af4de12ec)
+
+*Empresa de Sandálias* 
+
+![image](https://github.com/user-attachments/assets/5ee19964-82df-4872-8126-54edd1988cda)
+
+Link da planilha: https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_tome2_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BE7899C39-D0A1-4B82-BF04-046C20123A93%7D&file=Graf_K_sandalias_computador.xlsx&action=default&mobileredirect=true
+
+
