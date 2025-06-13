@@ -135,7 +135,21 @@ Link da planilha: https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_tome2_
 
 # Décima Atividade: Criando uma Tabela de Fretes com Power Apps
 
+Nesta atividade, fiz a criação de um aplicativo que elabora uma tabela de fretes de acordo com as informações dadas pelos usuários.
+
 https://github.com/user-attachments/assets/98e4965f-88ea-4b7a-8f6d-001d79e299ff
+
+# Décima primeira: Criando um Fluxo 
+
+Em seguida, foi realizado um fluxo por meio da ferramenta Power Automate que permite o envio de um e-mail com as informações necessárias do teste.
+
+![image](https://github.com/user-attachments/assets/8ed53dbe-5aaa-4b4c-8c0b-d60d5959a382)
+
+![image](https://github.com/user-attachments/assets/ca08c969-ef1b-4a13-a378-b1fee22e4612)
+
+![image](https://github.com/user-attachments/assets/bf8b0627-7b23-496d-a42e-ce8cb2d0242d)
+
+
 
 
 
