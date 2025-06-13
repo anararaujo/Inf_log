@@ -133,4 +133,10 @@ Link da planilha: https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_tome2_
 
 Link da planilha: https://fatecspgov-my.sharepoint.com/:x:/r/personal/ana_tome2_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BE7899C39-D0A1-4B82-BF04-046C20123A93%7D&file=Graf_K_sandalias_computador.xlsx&action=default&mobileredirect=true
 
+# Décima Atividade: Criando uma Tabela de Fretes com Power Apps
+
+https://github.com/user-attachments/assets/98e4965f-88ea-4b7a-8f6d-001d79e299ff
+
+
+
 
