@@ -172,7 +172,8 @@ Criar um dashboard
 
 https://app.powerbi.com/groups/a3573da5-73f7-420b-97ae-063656ef5631/reports/e985ff2a-c7bb-4bd8-80f3-d58948ec878e/c9905e82bbb210c19dd2?experience=power-bi
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0ed32217-4890-4f53-95c9-ae84df23bf8e)
+
 
 
 
