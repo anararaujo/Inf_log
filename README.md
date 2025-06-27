@@ -161,6 +161,12 @@ Em seguida, foi realizado um fluxo por meio da ferramenta Power Automate que per
 
 ![image](https://github.com/user-attachments/assets/bf8b0627-7b23-496d-a42e-ce8cb2d0242d)
 
+Prova: Fechamento do Semestre
+*1* Realizar um app pelo Power Apps utilizando dados da base gov
+
+https://github.com/user-attachments/assets/350657f2-7641-4181-b502-488ba3a4d290
+
+
 
 
 
