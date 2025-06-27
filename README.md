@@ -166,6 +166,9 @@ Prova: Fechamento do Semestre
 
 https://github.com/user-attachments/assets/350657f2-7641-4181-b502-488ba3a4d290
 
+Criar um dashboard
+
+![image](https://github.com/user-attachments/assets/109dee2d-399a-4ef3-94bd-1b84cfa57d3d)
 
 
 
