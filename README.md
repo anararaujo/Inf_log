@@ -1,5 +1,6 @@
-# Inf_log
-Aprendizado - Informática ![image](https://github.com/user-attachments/assets/f4ecc483-ba91-40b9-9d87-cb306bae945e)
+# Portifólio Ana Régia Tomé ]
+
+Me chamo Ana e sou graduanda em Logística na Fatec Jessen Vidal, São José dos Campos. Esté é meu Portifólio digital, e aqui é onde administro as principais atividades desenvolvidas nos semestres.
 
 |Primeira atividade: Apresentação pessoal - Canva
 -----------------------------------------------------|
