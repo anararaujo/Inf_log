@@ -1,4 +1,4 @@
-# Portifólio Ana Régia Tomé ]
+# Portifólio Ana R. Tomé
 
 Me chamo Ana e sou graduanda em Logística na Fatec Jessen Vidal, São José dos Campos. Esté é meu Portifólio digital, e aqui é onde administro as principais atividades desenvolvidas nos semestres.
 
